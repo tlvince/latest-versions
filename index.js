@@ -10,7 +10,7 @@ module.exports = function (packages) {
   var options = {
     json: true,
     headers: {
-      'user-agent': 'https://github.com/tlvince/npm-latest'
+      'user-agent': 'https://github.com/tlvince/latest-versions'
     }
   }
 
